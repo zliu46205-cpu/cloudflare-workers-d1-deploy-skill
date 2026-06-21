@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cloudflare Workers D1 Deploy"
+  short_description: "Deploy Vite apps to Cloudflare Workers with D1 and GitHub."
+  default_prompt: "Use this skill to deploy or troubleshoot a Vite/React site on Cloudflare Workers with Wrangler, D1, GitHub push, and custom domain setup."
